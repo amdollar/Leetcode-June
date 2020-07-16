@@ -6,6 +6,8 @@ public class CoinChange {
 		int ar[] = new int[] { 1, 2, 5 };
 		int amount = 5;
 		System.out.println(change(amount, ar));
+		
+		
 
 	}
 
